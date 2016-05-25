@@ -11,7 +11,7 @@
 
 <header>
 	<hgroup>
-		<h1><span class="nom">Disseny de base de dades. Pràctica 2</h1>
+		<h1><span class="nom">Disseny de base de dades. Pràctica 2</span></h1>
 		<div id="logoInfo" align="right"><a href="./info.html"><img src="imatges/info.png"></a></div>
 	</hgroup>
 
